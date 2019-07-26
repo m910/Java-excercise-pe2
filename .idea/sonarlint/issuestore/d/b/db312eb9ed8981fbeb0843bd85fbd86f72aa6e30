@@ -1,0 +1,7 @@
+
+ssquid:S1450"URemove the "salary" field and declare it as a local variable in the relevant methods.(·í–8£¹ÈâÁ-
+usquid:S1450"RRemove the "age" field and declare it as a local variable in the relevant methods.(Æ†´¦şÿÿÿÿ8øĞ½âÁ-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(£¡œ—ÿÿÿÿÿ8Œø¾âÁ-
+Hsquid:S1068"*Remove this unused "salary" private field.(·í–8·ª±âÁ-
+Jsquid:S1068"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8·ª±âÁ-
